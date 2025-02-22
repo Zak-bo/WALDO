@@ -1,5 +1,7 @@
 import torch
 import onnxruntime as rt
+pip install onnxruntime-gpu
+
 import os
 import warnings
 
